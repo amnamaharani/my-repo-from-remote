@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+}
+
+#image-container {
+    max-width: 245px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+
+#image{
+    width: 100%;
+    height: auto;
+}
+
+#name {
+    text-align: center;
+}
